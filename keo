@@ -1,0 +1,30 @@
+#EXTM3U 17:05⏱05/11/22 
+
+#EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?keyid=7fc15a97679e455fa6951ba672e66151&key=6e3525f6eccfdcb5de30c92e03445310
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="http://phimmoi.asia/vieon/k1.png" group-title="Kẹo",K+Sport 1 HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1667664313~acl=/*~hmac=e20f2ba1fe076f1805e36d00547aa573383ba97d3beaaa8b794087ed11e5170c 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?keyid=f3bfadc4cf9e47f49d74b067a7863b1c&key=5db9686ccc26471fd9ecd08775e56907
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="http://phimmoi.asia/vieon/k2.png" group-title="Kẹo",K+Sport 2 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1667664313~acl=/*~hmac=e20f2ba1fe076f1805e36d00547aa573383ba97d3beaaa8b794087ed11e5170c 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?keyid=4f4fb193d831443eaf0902589c62bd92&key=38d5d44ccfc11167d767aab96b469962
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://phimmoi.asia/vieon/life.png" group-title="Kẹo",K+ Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1667664313~acl=/*~hmac=e20f2ba1fe076f1805e36d00547aa573383ba97d3beaaa8b794087ed11e5170c 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?keyid=8a6eac0fa9f9431f9d0d59d9932d10a1&key=27b1431b4f6f2531789df519cdb1e1f5
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="http://phimmoi.asia/vieon/cine.png" group-title="Kẹo",K+Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1667664314~acl=/*~hmac=1eb372a5811a3f698ad4947ffa60b92eaa72a40293e6fcda1740083bce271462 
