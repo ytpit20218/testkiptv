@@ -1,136 +1,148 @@
-#-*--🍭| K+ MyK+ |🍭-*--#"
-  
-  
-#EXTINF:-1 group-title="💕| K+ (MyTV)" tvg-logo="https://tiny.one/ksport2", K+ SPORT2
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3867/live/bnnn111111live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Premium 1 (Full HD 60FPS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://gonistanda.icu/
+https://5e338853723.s3.amazonaws.com/c162ad98f11/live_1080p60.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Premium 1 (Luồng 2) (FHD 50FPS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://olacast.live/
+https://webdduit.onlinewebtv.lol/lb/yallalive1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Premium 1 (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://coperate.yallalive.one/albaplayer/bp1/
+https://yeszet1x1cdn23.goalarab.site/livebp1/bp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Premium 1 (4K Mù mắt) (Luồng 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3315/live/startekbeinnhdfhlive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 2 (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://coperate.yallalive.one/albaplayer/b2/
+https://yeszet1x1cdn23.goalarab.site/liveb2/b.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 2 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3225/live/bnnn22222live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Premium 2 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3790/live/aflam4youamaxx222live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 3 (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://coperate.yallalive.one/albaplayer/b3/
+https://yeszet1x1cdn23.goalarab.site/liveb3/b3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 3 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3201/live/bnnn333333live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 4 (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://coperate.yallalive.one/albaplayer/b4/
+https://yeszet1x1cdn23.goalarab.site/liveb4/b4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 4 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://yeszet1x1cdn23.goalarab.site/liveb4/b4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 5 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3694/live/bnnn555555live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 1 Pháp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/124099.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 2 Pháp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/124097.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport News (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3560/live/bnnnnewslive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport Xtra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Dubai Sport 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Dubai Sport 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Dubai Sport 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Alkass 1 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3574/live/aflam4youaljkasssssslive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Alkass 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass2nbcq/master.m3u8?hdnts=exp=1678042377~hmac=ffa1e626c1b1e54525c9b0e2202192b21d6cecde60b27ff444af4f965249a257
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Alkass 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass3actfsdc/master.m3u8?hdnts=exp=1678042495~hmac=a3be1544c259805374e9dd325c673f2221735c4f2eb2e5bf5b31cbee21706e88
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Alkass 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8?hdnts=exp=1678042519~hmac=17d80fad2f3211aabcb698f304c6767e3b51caafb3775ada291fc7decb7a0b5d
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Alkass 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8?hdnts=exp=1678042551~hmac=7a71625c744e369b6c6f3d6e25a41cdba1150453062f1131359a751a37dee921
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", ON Time Sport (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3873/live/onspooitrrhjlive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", SSC1 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://cdn341.yallahshooty.live:3561/live/ssc111aflam4youlive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", QAZSPORT
+http://92.46.127.146:8080/qazsport/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", CCTV5
+http://39.137.49.89:8080/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="3. SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Premium 3
+#EXTVLCOPT:http-user-agent=ã…¤ ã…¤ ã…¤ yacine22..Ø®2
+#EXTVLCOPT:http-referrer=https://www.mbc4you.com/
+https://lb.buy-global.store/live/lb2/bp1-720.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Bein Sport 2 (4K Mù mắt)
+#EXTVLCOPT:http-user-agent=MyRK3Yp5wcT49eyw6vp78Dbz4C7mT8D9eySTK2J97X7jERHigYUGuiguFTUGIYHtXGmDX89eDERTGBVYU78Z347X7jajt77jajt7kw2nd2d8Tk2D7UHtrehTKVC7d9QmTm
+https://nkh8wh7k8f6c7tz9h7dk.xyz/rk/2qTRCvSqCJ/5qP807oGjo/874.ts
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", FS1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VOO7hRkYHjke00zEoKVlVw", "kid":"/1G2wwGYROGJv+Wmo8pT1w" } ], "type":"temporary" }
-#https://tinyurl.com/4d4k4cuh
-#EXTINF:-1 group-title="💕| K+ (MyTV)" tvg-logo="https://tiny.one/ksport1", K+ SPORT1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XlpE5rpGAhwSfEtoNYhYBw", "kid":"pSdXI8lMR2qrjjTQR4VWMA" } ], "type":"temporary" }
-#https://tinyurl.com/5esp3e67
-#EXTINF:-1 group-title="💕| K+ (MyTV)" tvg-logo="https://tiny.one/klife", K+ LIFE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PRhSVy5otGoTMh4z2winfA", "kid":"mzbWz0eVShiutuI5U/VWRw" } ], "type":"temporary" }
-https://tinyurl.com/yzzackds
-#EXTINF:-1 group-title="💕| K+ (MyTV)" tvg-logo="https://tiny.one/kcine", K+ CINE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2IABt0FDUibL3gYX1PKJ2g", "kid":"eLj0C7/wTCyq0ggEYDMwHg" } ], "type":"temporary" }
-https://tinyurl.com/ttujpscs
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ VTVcab" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
-
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title="🍭| K+ VTVcab", K+LIFE
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ VTVcab" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ VTVcab" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🍭| K+ VTVcab" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ Kids
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/fvbpgw4pgb1ahis/ 										ă&#8230;&#164; 
-#EXTINF:-1 tvg-id="klive1" group-title="🍭| K+ MyK+" tvg-logo="https://i.ibb.co/pxk6q2z/ccKlive1.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=", K+ LIVE1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd?uri=https://k.dl.dropboxusercontent.com/s/3aonoouv7ijszvg/./ 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/8wpo4cczlgpalgz/ 										ă&#8230;&#164;   
-#EXTINF:-1 tvg-id="klive2" group-title="🍭| K+ MyK+" tvg-logo="https://i.ibb.co/xmSJHxt/ccKlive2.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=", K+ LIVE2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd?uri=https://k.dl.dropboxusercontent.com/s/3aonoouv7ijszvg/./
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/i7fy551hsq9ygc9/ 										ă&#8230;&#164;   
-#EXTINF:-1 tvg-id="klive3" group-title="🍭| K+ MyK+" tvg-logo="https://i.ibb.co/LYT8VGY/ccKlive3.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",K+ LIVE3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd?uri=https://k.dl.dropboxusercontent.com/s/3aonoouv7ijszvg/./
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoFEgBN6e3I+PrYmPfNp4g", "kid":"q6zp42P1TJaeJJnE8Jol9A" },{ "kty":"oct", "k":"uZCHlIrjwaAIeggI85vtAQ", "kid":"8/Dp42P1TJaeJJnE8Jol9A" },{ "kty":"oct", "k":"f7lu/2d25IFqUtlII3Yizw", "kid":"APQtFGP1TJaeJJnE8Jol9A" },{ "kty":"oct", "k":"GzNLfAuVCmnmc2bWnrfXUg", "kid":"7AEtLLL1TJaeJJnE8Jol9A" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="klive3" group-title="🍭| K+ MyK+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tinyurl.com/ysf2su5w
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H+9EefaBAsYzYGlF8//Cxg", "kid":"m27zX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"wotGryjps4FrAZW8WhdedQ", "kid":"47LzX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"jCLU6IM/x7G6y90MmF1VAg", "kid":"8LY3kFQJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"0rjoxBnu44jsGslmP8O9aQ", "kid":"3MM3qKMJT7uoQ4wmdehJbQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="klive3" group-title="🍭| K+ MyK+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png",K+ LIFE
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tinyurl.com/yzsyasce
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HOW1RaCEFyqVbP6anu27Gw", "kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"n/GALqFCYQOdmoMyAsFxcA", "kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"GaJAH7ce+2G+AHPd6Tchpw", "kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct", "k":"Us0c6x1HM5EBoILfeKUvAQ", "kid":"F0+e6TXBS3yDCU67NlMUow" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="klive3" group-title="🍭| K+ MyK+" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tinyurl.com/8yzyxu4w
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N9Sl/THUJsmznOrc+/V2Fw", "kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"51lqB+q93DwkCRi69M1YgA", "kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"u9UEV/Sc5r62dAGxnooljw", "kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"918gOCJDFg7FPbDuqVGhPQ", "kid":"bBhizM7GTTicYuE9iUjUrQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="klive3" group-title="🍭| K+ MyK+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tinyurl.com/nkzt67nx
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"36PLv8UXf9/cVfAsjnltJA", "kid":"5xlj/pNsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"7fz9h3RZue3YZ8blOzPxTg", "kid":"L11j/pNsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"wrwAyM/Y1XoHADqMUHDQog", "kid":"PGGnL5NsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"N1+dNPdfy52r8zv0kGXgAQ", "kid":"KG6nR+JsTOCTxWxYKWsx6w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="klive3" group-title="🍭| K+ MyK+" tvg-logo="https://i.imgur.com/vEztTNK.png",K+ KIDS
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tinyurl.com/2t3fkkkm
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ ClipTV" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
-
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/pt06igh5yqi03e3/   																						 ă&#8230;&#164;
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ ClipTV" tvg-logo="https://i.ibb.co/h8FLFc7/3.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",K+ CINE
-https://k.dl.dropboxusercontent.com/s/4oxsviekwt835j3/./   																						 ă&#8230;&#164;
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://72918341.r.vtvcdn.com/manifest/k-plus-1/master.mpd?uri=https://cocc.me/câ&#8216;&#162;caă&#8230;&#164;ă&#8230;&#164;ă&#8230;&#164;     
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/abd3n3yjtlhy1wo/   																						 ă&#8230;&#164;
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ ClipTV" tvg-logo="https://i.ibb.co/MS363r3/4.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",K+LIFE
-https://k.dl.dropboxusercontent.com/s/hjddlgdpsqsd14r/./   																						 ă&#8230;&#164;
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://72918341.r.vtvcdn.com/manifest/k-plus-ns/master.mpd?uri=https://cocc.me/câ&#8216;&#163;caă&#8230;&#164;ă&#8230;&#164;ă&#8230;&#164;ă&#8230;&#164;
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/4swwoze546m7vgy/   																						 ă&#8230;&#164;
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ ClipTV" tvg-logo="https://i.ibb.co/gP7GDwp/5.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",K+ KIDS
-https://k.dl.dropboxusercontent.com/s/iy8kclnhzqcmp6u/./   																						 ă&#8230;&#164;
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd?uri=https://cocc.me/câ&#8216;&#164;caă&#8230;&#164;ă&#8230;&#164;ă&#8230;&#164;ă&#8230;&#164;ă&#8230;&#164;    
-  
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title="🍭| K+ ClipTV", K+LIFE
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ ClipTV" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ ClipTV" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🍭| K+ ClipTV" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ KIDS
-
-  
-#EXTINF:-1 group-title="🍭| K+ (FPT Play)" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" } 
-https://tinyurl.com/4wu33cc9
-#EXTINF:-1 tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title="🍭| K+ (FPT Play)", K+LIFE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" } 
-https://tinyurl.com/4hftdv97
-#EXTINF:-1 group-title="🍭| K+ (FPT Play)" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Nbx5fDBRlW9yM5ylOAPRaw","kid":"aKrt2n4bPSyBk8RZVIfXFg"}],"type":"temporary"} 
-https://tinyurl.com/yf9vdepu
-#EXTINF:-1 group-title="🍭| K+ (FPT Play)" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SvlPnUyLVR7SkhxNo7NzxQ", "kid":"DhptJ1mNMc26fD10/jEVag" } ], "type":"temporary" }
-https://tinyurl.com/33d6sf43
-#EXTINF:-1 group-title="🍭| K+ (FPT Play)" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ KIDS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WlMAfyH4NpIDPvCXo3n04A", "kid":"DH1XiH/XN2y8db0rEkF0VQ" } ], "type":"temporary" } 
-https://tinyurl.com/4xxyp37n
+https://app.ultimate2019.com/stream/get/936&f=.m3u8
