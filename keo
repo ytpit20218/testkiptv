@@ -1,6 +1,5 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vtvcab.ondrm.com/license-api/v1/drm/licenses/widevine
-#EXTINF:-1 tvg-id="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="5. CARTOONS",Yeah 1
-https://live1onsport.vtvcab.vn:443/ondrm/YEAH1_TV/manifest.mpd
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keycine.php
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
